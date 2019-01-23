@@ -1,1 +1,1 @@
-ghfghcvb
+Changing master file content after feature branch is created
