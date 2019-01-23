@@ -1,1 +1,1 @@
-Changing master file content after feature branch is created
+Changing master file content after feature2 branch is created
